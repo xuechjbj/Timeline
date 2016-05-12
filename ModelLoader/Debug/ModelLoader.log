@@ -1,0 +1,12 @@
+﻿  Main.cpp
+c:\users\chaojun.xue\documents\visual studio 2015\projects\timeline\modelloader\assimpmodel.h(112): warning C4099: 'AnimGLData': type name first seen using 'struct' now seen using 'class'
+  c:\users\chaojun.xue\documents\visual studio 2015\projects\timeline\modelloader\assimpmodel.h(98): note: see declaration of 'AnimGLData'
+c:\users\chaojun.xue\documents\visual studio 2015\projects\timeline\modelloader\modelrenderer.h(21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\chaojun.xue\documents\visual studio 2015\projects\timeline\modelloader\modelrenderer.h(33): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\chaojun.xue\documents\visual studio 2015\projects\timeline\modelloader\modelrenderer.h(36): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\chaojun.xue\documents\visual studio 2015\projects\timeline\modelloader\modelrenderer.h(37): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\chaojun.xue\documents\visual studio 2015\projects\timeline\modelloader\modelrenderer.h(38): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\chaojun.xue\documents\visual studio 2015\projects\timeline\modelloader\main.cpp(116): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\chaojun.xue\documents\visual studio 2015\projects\timeline\modelloader\main.cpp(137): warning C4101: 'e': unreferenced local variable
+  ModelLoader.vcxproj -> C:\Users\Chaojun.Xue\Documents\Visual Studio 2015\Projects\Timeline\Debug\ModelLoader.exe
+  ModelLoader.vcxproj -> C:\Users\Chaojun.Xue\Documents\Visual Studio 2015\Projects\Timeline\Debug\ModelLoader.pdb (Partial PDB)

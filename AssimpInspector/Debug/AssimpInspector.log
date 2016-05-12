@@ -1,0 +1,14 @@
+﻿  Inspector.cpp
+c:\users\chaojun.xue\documents\visual studio 2015\projects\timeline\assimpinspector\inspector.cpp(83): warning C4018: '<': signed/unsigned mismatch
+c:\users\chaojun.xue\documents\visual studio 2015\projects\timeline\assimpinspector\inspector.cpp(88): warning C4018: '<': signed/unsigned mismatch
+c:\users\chaojun.xue\documents\visual studio 2015\projects\timeline\assimpinspector\inspector.cpp(94): warning C4018: '<': signed/unsigned mismatch
+c:\users\chaojun.xue\documents\visual studio 2015\projects\timeline\assimpinspector\inspector.cpp(101): warning C4018: '<': signed/unsigned mismatch
+c:\users\chaojun.xue\documents\visual studio 2015\projects\timeline\assimpinspector\inspector.cpp(111): warning C4018: '<': signed/unsigned mismatch
+c:\users\chaojun.xue\documents\visual studio 2015\projects\timeline\assimpinspector\inspector.cpp(113): warning C4018: '<': signed/unsigned mismatch
+c:\users\chaojun.xue\documents\visual studio 2015\projects\timeline\assimpinspector\inspector.cpp(141): warning C4018: '<': signed/unsigned mismatch
+c:\users\chaojun.xue\documents\visual studio 2015\projects\timeline\assimpinspector\inspector.cpp(158): warning C4018: '<': signed/unsigned mismatch
+c:\users\chaojun.xue\documents\visual studio 2015\projects\timeline\assimpinspector\inspector.cpp(175): warning C4018: '<': signed/unsigned mismatch
+c:\users\chaojun.xue\documents\visual studio 2015\projects\timeline\assimpinspector\inspector.cpp(230): warning C4018: '<': signed/unsigned mismatch
+c:\users\chaojun.xue\documents\visual studio 2015\projects\timeline\assimpinspector\inspector.cpp(253): warning C4018: '<': signed/unsigned mismatch
+  AssimpInspector.vcxproj -> C:\Users\Chaojun.Xue\Documents\Visual Studio 2015\Projects\Timeline\Debug\AssimpInspector.exe
+  AssimpInspector.vcxproj -> C:\Users\Chaojun.Xue\Documents\Visual Studio 2015\Projects\Timeline\Debug\AssimpInspector.pdb (Partial PDB)
